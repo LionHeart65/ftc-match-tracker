@@ -51,7 +51,7 @@ const App = () => { // eslint-disable-next-line no-unused-vars
             <MatchList teams={teams} />
             <footer>
                 <p>Created by Ari Yellin-Levine, FTC 4466</p>
-                <p>Edit on Github <a href=""></a></p>
+                <p>Edit on <a href="https://github.com/LionHeart65/ftc-match-tracker/tree/main" target="_blank">Github</a></p>
             </footer>
         </>
     )
